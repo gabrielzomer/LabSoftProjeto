@@ -1,5 +1,5 @@
 # LabSoftProjeto
-#1 - Implementar mapa;
+1 - Implementar mapa;
 2 -
 3 - 
 4 - 
